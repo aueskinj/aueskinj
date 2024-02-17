@@ -27,8 +27,4 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aueskinj&theme=tokyonight)](https://git.io/streak-stats) ![](https://komarev.com/ghpvc/?username=aueskinj&color=green&hidden=True&style=flat-square&label=PROFILE+VIEWS) 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=f6ovv1ih0oaq79jr59wckrggu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
-  <div style="flex: 50%; padding: 10px;">
-    <h2>📈 Most Used Languages</h2>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aueskinj&theme=blue-green" alt="Most Used Languages" />
-  </div>
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aueskinj&theme=blue-green)
