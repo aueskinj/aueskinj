@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=f6ovv1ih0oaq79jr59wckrggu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=f6ovv1ih0oaq79jr59wckrggu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
