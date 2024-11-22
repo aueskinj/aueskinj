@@ -1,4 +1,4 @@
-![alt text](https://cdna.artstation.com/p/assets/images/images/050/423/884/medium/mohammx-safa-final.jpg?1654803157)
+![alt text](https://sl.bing.net/hpHg6SivBBY)
 
 <h1 align="center"> Kimuhu Njuguna👋</h1>
 
