@@ -16,16 +16,10 @@
 <table cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
     <td>
-      <a href="https://www.kaggle.com/aueskinj" target="blank"><img align="center" src="https://storage.googleapis.com/kaggle-media/Kaggle%20Brand%20Guidelines%20CMS/png%20logo.png" alt="maimunul" height="30" width="40" /></a>
+      <a href="https://www.kaggle.com/aueskinj" target="blank"><img align="center" src="[https://storage.googleapis.com/kaggle-media/Kaggle%20Brand%20Guidelines%20CMS/png%20logo.png](https://www.kaggle.com/static/images/logos/kaggle-logo-transparent.svg)" alt="maimunul" height="30" width="40" /></a>
     </td>
     <td>
      <a href="https://www.linkedin.com/in/austine-kimuhu//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maimunul" height="30" width="40" /></a>
-    </td>
-    <td>
-     <a href="https://www.facebook.com/mdmk.jishan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="maimunul" height="30" width="40" /></a>
-    </td>
-    <td>
-      <a href="https://www.instagram.com/maimunul_k_thisan/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="maimunul" height="30" width="40" /></a>
     </td>
   </tr>
 </table>
