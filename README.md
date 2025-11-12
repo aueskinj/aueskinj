@@ -1,113 +1,119 @@
-![githubbackgrounf](https://github.com/user-attachments/assets/c49ba3c9-0395-4f31-951f-a526dbfca3a8)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c49ba3c9-0395-4f31-951f-a526dbfca3a8" alt="Header Background" width="100%"/>
+</div>
 
+<h1 align="center">👋 Austine Kimuhu Njuguna</h1>
 
-<h1 align="center"> Kimuhu Njuguna👋</h1>
+<p align="center">
+  <em>Python Backend Developer | ETL Specialist | API Architect</em>
+</p>
+
+<p align="center">
+  <a href="https://www.kaggle.com/aueskinj"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+  <a href="https://www.linkedin.com/in/austine-kimuhu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:aueskinj@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+---
 
 ## 🙋‍♂️ About Me
-- 👋 Hi,  Austine Kimuhu Njuguna
-- 🖥️ I am a data science 
-- 👀 I’m interested in Causal Data Science
-- 🌱 I’m currently improving knowledge of Causality and Machine Learning
-- 📫 You can reach me at aueskinj@gmail.com
 
-
-## 🌐 Connect with me: 
-
-<table cellspacing="0" cellpadding="0" style="border:none;">
-  <tr>
-    <td>
-      <a href="https://www.kaggle.com/aueskinj" target="blank"><img align="center" src="https://www.kaggle.com/static/images/logos/kaggle-logo-transparent.svg" alt="maimunul" height="30" width="40" /></a>
-    </td>
-    <td>
-     <a href="https://www.linkedin.com/in/austine-kimuhu//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maimunul" height="30" width="40" /></a>
-    </td>
-  </tr>
-</table>
-
-
-
-<br/>
-<br/>
-
-<table align="center">
-    <tr>
-        <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Maimunul Top Languages" src="https://github-readme-stats.vercel.app/api?username=aueskinj&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-        </td>
-    </tr>
-</table>
-
-
-### 💻 Programming Languages:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
-### 🖥️ ML/DL
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Apache NiFi](https://img.shields.io/badge/Apache_NiFi-%23009fdf.svg?style=for-the-badge&logo=apache-nifi&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-%2304B5C5.svg?style=for-the-badge&logo=Deep-Learning&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-%2304B5C5.svg?style=for-the-badge&logo=Machine-Learning&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-%2304B5C5.svg?style=for-the-badge&logo=Data-Visualization&logoColor=white)
-![Sci-Fi](https://img.shields.io/badge/Sci--Fi-%2304B5C5.svg?style=for-the-badge&logo=Sci-Fi&logoColor=white)
-![Statistics](https://img.shields.io/badge/Statistics-%2304B5C5.svg?style=for-the-badge&logo=Statistics&logoColor=white)
-![Probability](https://img.shields.io/badge/Probability-%2304B5C5.svg?style=for-the-badge&logo=Probability&logoColor=white)
-![Differential Calculus](https://img.shields.io/badge/Differential_Calculus-%2304B5C5.svg?style=for-the-badge&logo=Differential-Calculus&logoColor=white)
-![EDA](https://img.shields.io/badge/EDA-%2304B5C5.svg?style=for-the-badge&logo=EDA&logoColor=white)
-
-
-
-
-### 🎨 Other Skills:
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Overleaf](https://img.shields.io/badge/Overleaf-%2304B5C5.svg?style=for-the-badge&logo=Overleaf&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-
-
-
-### ☁️ Hosting/SaaS
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-
-### 💻 IDEs/Editors
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-%2304B5C5.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-%2304B5C5.svg?style=for-the-badge&logo=Android-Studio&logoColor=white)
+```python
+class BackendDeveloper:
+    def __init__(self):
+        self.name = "Austine Kimuhu Njuguna"
+        self.role = "Python Backend Developer"
+        self.focus = ["Scalable APIs", "ETL Pipelines", "Automated Workflows"]
+        self.currently_learning = ["Causal Inference", "Machine Learning", "Cloud Backend Systems"]
+        self.contact = "aueskinj@gmail.com"
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together.")
+```
 
 ---
 
+## 💻 Tech Stack
+
+### Backend & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-4053D6?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
+</p>
+
+### Databases & Caching
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+</p>
+
+### DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+
+### Data Engineering & Automation
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Apache Airflow"/>
+  <img src="https://img.shields.io/badge/Celery-3C2A6E?style=for-the-badge&logo=celery&logoColor=white" alt="Celery"/>
+  <img src="https://img.shields.io/badge/REST_API-0088CC?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
+</p>
+
+### Machine Learning & Data Science
+<p>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+</p>
+
 ---
 
-<details><summary>See visitors information</summary>
+## 📊 GitHub Statistics
 
->Counting of visitors to this page in this section started from January 02, 2023
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aueskinj&count_private=true&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aueskinj&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" height="170"/>
+</p>
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=aueskinj&color=brightgreen&style=plastic)
-
-</details>
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aueskinj&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
+</p>
 
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=f6ovv1ih0oaq79jr59wckrggu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+---
+
+## 🎵 Currently Vibing To
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=f6ovv1ih0oaq79jr59wckrggu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing"/>
+  </a>
+</p>
+
+---
+
+## 📈 Profile Analytics
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aueskinj&color=brightgreen&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+</p>
+
+---
+
+<p align="center">
+  <em>💡 "Code is like humor. When you have to explain it, it's bad." – Cory House</em>
+</p>
+
+<p align="center">
+  <sub>⭐ From <a href="https://github.com/aueskinj">aueskinj</a> with ❤️</sub>
+</p>
