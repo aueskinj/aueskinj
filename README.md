@@ -21,7 +21,6 @@
 ```python
 ## 🙋‍♂️ About Me
 
-```python
 class DataScientist_RPADeveloper:
     def __init__(self):
         self.name = "Austine Kimuhu Njuguna"
@@ -45,6 +44,7 @@ class DataScientist_RPADeveloper:
     def say_hi(self):
         print("Thanks for dropping by! Let's automate and analyze together 😊")
 
+```
 ---
 
 ## 💻 Tech Stack
