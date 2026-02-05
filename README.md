@@ -5,7 +5,7 @@
 <h1 align="center">👋 Austine Kimuhu Njuguna</h1>
 
 <p align="center">
-  <em>Python Backend Developer | ETL Specialist | API Architect</em>
+  <em> Data Scientist | RPA Developer | Automation & ML Engineer </em>
 </p>
 
 <p align="center">
@@ -19,17 +19,31 @@
 ## 🙋‍♂️ About Me
 
 ```python
-class BackendDeveloper:
+## 🙋‍♂️ About Me
+
+```python
+class DataScientist_RPADeveloper:
     def __init__(self):
         self.name = "Austine Kimuhu Njuguna"
-        self.role = "Python Backend Developer"
-        self.focus = ["Scalable APIs", "ETL Pipelines", "Automated Workflows"]
-        self.currently_learning = ["Causal Inference", "Machine Learning", "Cloud Backend Systems"]
+        self.role = "Data Scientist & RPA Developer"
+        self.expertise = [
+            "Machine Learning & Predictive Analytics",
+            "Process Automation & RPA",
+            "ETL Pipelines & Data Engineering",
+            "Python Development"
+        ]
+        self.passion = "Turning data into insights and automating the boring stuff"
         self.contact = "aueskinj@gmail.com"
     
+    def current_focus(self):
+        return {
+            "learning": ["Advanced ML Models", "UiPath/Power Automate"],
+            "building": ["Automated data pipelines", "Smart RPA solutions"],
+            "seeking": "Opportunities in Data Science & Intelligent Automation"
+        }
+    
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
-```
+        print("Thanks for dropping by! Let's automate and analyze together 😊")
 
 ---
 
