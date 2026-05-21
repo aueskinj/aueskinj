@@ -1,16 +1,13 @@
 <h1 align="center">Austine Kimuhu Njuguna</h1>
 
 <p align="center">
-  <strong>Data Scientist · ML Engineer · RPA Developer</strong><br/>
-  <em>Building production ML systems, intelligent agents, and data pipelines</em>
+  <strong>Full Stack Software & Data Engineer · Integration Specialist</strong><br/>
+  <em>Building scalable backend systems, enterprise integrations, and big data pipelines</em>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/austine-kimuhu/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.kaggle.com/aueskinj">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
   <a href="mailto:aueskinj@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -24,11 +21,12 @@
 
 ## About Me
 
-I'm a Data Scientist and ML Engineer based in Nairobi, Kenya, with experience across the full ML lifecycle, from exploratory analysis and feature engineering to model deployment and monitoring. I've worked on NLP systems, deep learning pipelines, causal inference, and RPA automation, and I'm particularly interested in building AI systems that produce measurable business outcomes.
+I'm a Software and Data Engineer based in Nairobi, Kenya, specializing in designing, developing, and maintaining enterprise-grade backend architectures and big data workflows. Certified as a Cloud Native Associate, I focus on building resilient microservices, optimizing Hadoop/Spark ecosystems, and managing complex API integrations (SOA/ESB) that drive core banking and financial platforms. 
 
-- 🔭 Currently building: LLM-powered tools and RAG pipelines with LangChain
-- 🌍 Open to: remote and Nairobi-based roles in Data Science, ML Engineering, and AI development
-- 📫 Reach me: aueskinj@gmail.com | [LinkedIn](https://www.linkedin.com/in/austine-kimuhu/)
+- 🔭 **Currently building:** Serverless AWS backend services, Kafka streaming pipelines, and Oracle SOA integrations.
+- 🌱 **Core focus:** Scala/Spark optimization, scalable RESTful APIs, LLM systems, and ITIL-aligned CI/CD deployments.
+- 🌍 **Open to:** Remote and Nairobi-based roles in Full Stack Engineering, Data Engineering, and Systems Integration.
+- 📫 **Reach me:** aueskinj@gmail.com | [LinkedIn](https://www.linkedin.com/in/austine-kimuhu/)
 
 ---
 
@@ -36,41 +34,60 @@ I'm a Data Scientist and ML Engineer based in Nairobi, Kenya, with experience ac
 
 | Project | Description | Stack |
 |---|---|---|
-| [MATHMIND](https://github.com/aueskinj/MATHMIND) | LLM-integrated math visualisation tool — combines language model reasoning with dynamic visual outputs | Python, LLM APIs, Matplotlib |
-| [RAG Pipeline](https://github.com/aueskinj/RAG) | Retrieval-Augmented Generation system built with LangChain for document Q&A | Python, LangChain, FAISS |
-| [Data Science Projects](https://github.com/aueskinj/Data-Science-Projects) | Collection of end-to-end ML projects: EDA, classification, regression, and time series | Python, scikit-learn, Pandas |
-| [Deep Learning](https://github.com/aueskinj/Deep_Learning) | TensorFlow/Keras implementations showcasing CNNs, transfer learning, and model fine-tuning | Python, TensorFlow, Keras |
-| [NLP with BERT](https://github.com/aueskinj/NLP) | Fine-tuned BERT models for text classification and sequence tasks | Python, HuggingFace Transformers |
-| [Web Crawler + API](https://github.com/aueskinj/web_crawler) | Async web crawler with FastAPI endpoints for structured data extraction | Python, FastAPI, BeautifulSoup |
+| **Enterprise Data Pipeline** *(Publishing Soon)* | End-to-end data pipeline utilizing Hadoop and Apache Spark to process, transform, and distribute high-volume financial datasets. | Scala, Apache Spark, Hadoop, HDFS |
+| **Serverless AWS Backend** *(Publishing Soon)* | Event-driven microservices architecture handling backend workflows and state management using AWS native services. | Python, AWS (Lambda, S3, DynamoDB) |
+| **SOA Integration Middleware** *(Publishing Soon)* | Custom ESB implementation connecting core banking systems with 3rd-party channels via REST, SOAP, and JMS protocols. | Java, Oracle SOA, XML/JSON, OpenAPI |
+| [Web Crawler + API](https://github.com/aueskinj/web_crawler) | Async web crawler with robust FastAPI REST endpoints for structured data extraction and downstream consumption. | Python, FastAPI, PostgreSQL, Swagger |
+| [RAG AI Pipeline](https://github.com/aueskinj/RAG) | Retrieval-Augmented Generation system showcasing high-speed vector querying and backend integration for enterprise AI. | LangChain, Ollama, Hugging Face |
+| **Real-time Event Streaming** *(Publishing Soon)* | High-performance data ingestion system built to handle concurrent streams for real-time analytics and monitoring. | Java, Apache Kafka, Snowflake |
 
 ---
 
-## Tech Stack
+## Tech Stack & Core Competencies
 
-### Machine Learning & AI
-<p>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
-</p>
-
-### Data & Engineering
+### 💻 Programming Languages & Frameworks
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-### Cloud & Automation
+### 🔌 API Development & Integration
+<p>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle_SOA-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSON/XML-000000?style=for-the-badge&logo=json&logoColor=white"/>
+</p>
+
+### 📊 Big Data, Streaming & Databases
+<p>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hadoop-66CC00?style=for-the-badge&logo=apachehadoop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### 🧠 Artificial Intelligence & Data Science
+<p>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Optuna-252422?style=for-the-badge&logo=optuna&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-ff8f00?style=for-the-badge&logo=optunalogo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
+
+### ☁️ CI/CD, Cloud Systems & Version Control
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
